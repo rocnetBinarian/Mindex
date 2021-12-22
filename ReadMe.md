@@ -1,4 +1,10 @@
 # Mindex Coding Challenge
+See [code-challenge/README.txt](https://github.com/rocnetBinarian/Mindex/blob/main/code-challenge/README.txt) for justifications and
+notes for various parts of this project.
+
+
+Original spec provided as follows:
+
 ## What's Provided
 A simple [.NetCore 2.1](https://dotnet.microsoft.com/download/dotnet-core/2.1) web application has been created and bootstrapped 
 with data. The application contains information about all employees at a company. On application start-up, an in-memory 
